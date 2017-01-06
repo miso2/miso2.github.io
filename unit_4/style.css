@@ -1,0 +1,21 @@
+body{
+	background-color:pink; 
+	text-align: center;
+}
+h1, p { 
+	color:blue; 
+	font-weight:bold; 
+}
+p{
+	font-size: 18px; 
+	line-height: 1.5em; 
+	margin: 20px;
+	font-family:'Lemonada', cursive;
+}
+h1,h2 {
+}
+img {
+	float: none; 
+	padding-right:40px;
+	
+}
